@@ -1,0 +1,7 @@
+# Ignorar las carpetas obj y bin en la carpeta Server
+/Server/obj/
+/Server/bin/
+
+# Ignorar las carpetas obj y bin en la carpeta Cliente
+/Cliente/obj/
+/Cliente/bin/

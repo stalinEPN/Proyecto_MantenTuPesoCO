@@ -1,0 +1,6 @@
+C:\Users\Stalin\Desktop\EPN\DISTRIBUIDAS\PRACTICAS2024b\Proyecto_mantenTuPesoCO\ComponenteRegistro\bin\Debug\ComponenteRegistro.dll
+C:\Users\Stalin\Desktop\EPN\DISTRIBUIDAS\PRACTICAS2024b\Proyecto_mantenTuPesoCO\ComponenteRegistro\bin\Debug\ComponenteRegistro.pdb
+C:\Users\Stalin\Desktop\EPN\DISTRIBUIDAS\PRACTICAS2024b\Proyecto_mantenTuPesoCO\ComponenteRegistro\obj\Debug\ComponenteRegistro.csproj.AssemblyReference.cache
+C:\Users\Stalin\Desktop\EPN\DISTRIBUIDAS\PRACTICAS2024b\Proyecto_mantenTuPesoCO\ComponenteRegistro\obj\Debug\ComponenteRegistro.csproj.CoreCompileInputs.cache
+C:\Users\Stalin\Desktop\EPN\DISTRIBUIDAS\PRACTICAS2024b\Proyecto_mantenTuPesoCO\ComponenteRegistro\obj\Debug\ComponenteRegistro.dll
+C:\Users\Stalin\Desktop\EPN\DISTRIBUIDAS\PRACTICAS2024b\Proyecto_mantenTuPesoCO\ComponenteRegistro\obj\Debug\ComponenteRegistro.pdb
