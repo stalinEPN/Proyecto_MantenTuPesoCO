@@ -5,3 +5,6 @@
 # Ignorar las carpetas obj y bin en la carpeta Cliente
 /Cliente/obj/
 /Cliente/bin/
+
+/.vs/
+/.git/
